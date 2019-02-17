@@ -1,0 +1,56 @@
+item {
+    id: 1
+    name: 'gioi_han_80km'
+}
+
+item {
+    id: 2
+    name: 'cam_vuot'
+}
+
+item {
+    id: 3
+    name: 'giao_duong_uu_tien'
+}
+item {
+    id: 4
+    name: 'dung_lai'
+}
+
+item {
+    id: 5
+    name: 'cam_xe_tai'
+}
+
+item {
+    id: 6
+    name: 'duong_mot_chieu'
+}
+item {
+    id: 7
+    name: 'nguy_hiem'
+}
+
+item {
+    id: 8
+    name: 'cong_truong'
+}
+
+item {
+    id: 9
+    name: 'truong_hoc'
+}
+item {
+    id: 10
+    name: 're_trai'
+}
+
+item {
+    id: 11
+    name: 're_phai'
+}
+
+item {
+    id: 12
+    name: 'vong_xuyen'
+}
